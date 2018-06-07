@@ -1,0 +1,9 @@
+#Ipython Notebook
+.ipynb_checkpoints
+
+#Tensorflow
+checkpoints/
+
+#Data
+data/econ-his/
+data/ticker-historical-prices/
